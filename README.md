@@ -4,6 +4,9 @@ A FastAPI microservice that optimizes 24-hour battery and grid power dispatch fo
 
 **🔗 Live Demo:** [https://gridwise-bup.up.railway.app/](https://gridwise-bup.up.railway.app/)
 
+
+**📖 API Docs (Swagger UI):** [https://gridwise-bup.up.railway.app/docs](https://gridwise-bup.up.railway.app/docs)
+
 ---
 
 ## Key Features
